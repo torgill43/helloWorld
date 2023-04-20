@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\torgi\\Git Repo - VS Code\\portfolio\\portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\torgi\\Git Repo - VS Code\\portfolio\\HelloWorld\\portfolio.csproj",
       "projectName": "portfolio",
-      "projectPath": "C:\\Users\\torgi\\Git Repo - VS Code\\portfolio\\portfolio.csproj",
+      "projectPath": "C:\\Users\\torgi\\Git Repo - VS Code\\portfolio\\HelloWorld\\portfolio.csproj",
       "packagesPath": "C:\\Users\\torgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\torgi\\Git Repo - VS Code\\portfolio\\obj\\",
+      "outputPath": "C:\\Users\\torgi\\Git Repo - VS Code\\portfolio\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\torgi\\AppData\\Roaming\\NuGet\\NuGet.Config"
